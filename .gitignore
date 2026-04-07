@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Except
+!.gitignore
+!README.md
+!Shared/
+!Shared/**
