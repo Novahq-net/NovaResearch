@@ -9,26 +9,26 @@ If you have any information to contribute, please reach out, open an issue or su
 
 # File Format Index
 
-### General Game
+### General
 - [PFF](Shared/PFF%20File%20Format.md)
 - [BFC](Shared/BFC%20File%20Format.md)
 - [CBIN](Shared/CBIN%20File%20Format.md)
 - [RTXT](Shared/RTXT%20File%20Format.md)
-- [SCR](Shared/SCR%20File%20Format.md)
+- [SCR1](Shared/SCR%20File%20Format.md)
 
 ### 3D Model
 - [3DI](Shared/3DI%20File%20Format.md)
 - [3DO](Shared/3DO%20File%20Format.md)
 - [PAK](Shared/PAK%20File%20Format.md)
-- [AI](Shared/AI%20File%20Format.md)
-- [OCF](Shared/OCF%20File%20Format.md)
+- [AI (Armored Fist 3 Model Assembly Instructions)](Shared/AI%20File%20Format.md)
+- [OCF (Tachyon: The Fringe Object Config File)](Shared/OCF%20File%20Format.md)
 
 ### Mission Related
-- [AIN](Shared/AIN%20File%20Format/AIN%20File%20Format.md)
-- [SPX](Shared/SPX%20File%20Format/SPX%20File%20Format.md)
+- [AIN (Black Hawk Down AI Navigation)](Shared/AIN%20File%20Format/AIN%20File%20Format.md)
+- [SPX (Tachyon: The Fringe Mission Files)](Shared/SPX%20File%20Format/SPX%20File%20Format.md)
 
 ### NovaWorld
-- [GLB](Shared/GLB%20File%20Format.md)
-- [GSB](Shared/GSB%20File%20Format.md)
+- [GLB (NovaWorld Global Lobby Browser/Bin)](Shared/GLB%20File%20Format.md)
+- [GSB (NovaWorld Global Server Browser/Bin)](Shared/GSB%20File%20Format.md)
 
 
