@@ -25,6 +25,7 @@ If you have any information to contribute, please reach out, open an issue or su
 
 ### Mission Related
 - [AIN](Shared/AIN%20File%20Format/AIN%20File%20Format.md)
+- [SPX](Shared/SPX%20File%20Format/SPX%20File%20Format.md)
 
 ### NovaWorld
 - [GLB](Shared/GLB%20File%20Format.md)
